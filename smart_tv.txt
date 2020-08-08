@@ -1,7 +1,0 @@
-(\.|^)aiv-delivery\.net$
-(\.|^)onlinethuisbioscoop\.nl$
-(\.|^)samsungads\.com$
-(\.|^)samsungads\.net$
-(\.|^)samsungcloudsolution\.com$
-(\.|^)samsungcloudsolution\.net$
-(\.|^)samsungotn\.net$

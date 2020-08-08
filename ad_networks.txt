@@ -1,7 +1,0 @@
-(\.|^)adadvisor\.net$
-(\.|^)adzerk\.net$
-(\.|^)openx\.net$
-(\.|^)outbrain\.com$
-(\.|^)plista\.com$
-(\.|^)taboola\.com$
-(\.|^)mopub\.com$

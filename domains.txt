@@ -1,3 +1,15 @@
+# Ad networks
+
+(\.|^)adadvisor\.net$
+(\.|^)adzerk\.net$
+(\.|^)openx\.net$
+(\.|^)outbrain\.com$
+(\.|^)plista\.com$
+(\.|^)taboola\.com$
+(\.|^)mopub\.com$
+
+# Scam sites / malware
+
 beveilgdeomgeving.site
 betaalonline-verzoek.com
 mijn-postnl.net
@@ -138,3 +150,48 @@ nlpostdienst-verzendingid.online
 postsorteercentrum.nl
 ing-app-ideal.nl 
 ideal-ing.ga
+
+# Trackers
+
+(\.|^)abtasty\.com$
+(\.|^)adjust\.com$
+(\.|^)adnxs\.com$
+(\.|^)adobedtm\.com$
+(\.|^)amplitude\.com$
+(\.|^)app-measurement\.com$
+(\.|^)appsflyer\.com$
+(\.|^)branch\.io$
+(\.|^)braze\.com$
+(\.|^)chartbeat\.com$
+(\.|^)chartbeat\.net$
+(\.|^)criteo\.com$
+(\.|^)crwdcntrl\.net$
+(\.|^)demdex\.net$
+(\.|^)flagship\.io$
+(\.|^)flurry\.com$
+(\.|^)gigya\.com$
+(\.|^)hotjar\.com$
+(\.|^)hubspot\.com$
+(\.|^)hubspot\.net$
+(\.|^)mixpanel\.com$
+(\.|^)newrelic\.com$
+(\.|^)optimizely\.com$
+(\.|^)quantserve\.com$
+(\.|^)revenuecat\.com$
+(\.|^)rubiconproject\.com$
+(\.|^)scorecardresearch\.com$
+(\.|^)urbanairship\.com$
+(\.|^)omtrdc\.net$
+(\.|^)addthis\.com$
+(\.|^)singular\.net$
+(\.|^)quantserve\.com$
+
+# Smart TV services
+
+(\.|^)aiv-delivery\.net$
+(\.|^)onlinethuisbioscoop\.nl$
+(\.|^)samsungads\.com$
+(\.|^)samsungads\.net$
+(\.|^)samsungcloudsolution\.com$
+(\.|^)samsungcloudsolution\.net$
+(\.|^)samsungotn\.net$
